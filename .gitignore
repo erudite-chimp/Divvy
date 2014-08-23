@@ -1,3 +1,5 @@
+.*
+!/.gitignore
 logs/*
 !.gitkeep
 node_modules/
